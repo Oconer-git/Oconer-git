@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="500px" src="https://github.com/Oconer-git/Oconer-git/blob/2f2243ccb05cd77852358f02e3cd6a02611e1c52/header.gif"  />
+  <img height="400px" src="https://github.com/Oconer-git/Oconer-git/blob/2f2243ccb05cd77852358f02e3cd6a02611e1c52/header.gif"  />
 </div>
 
 <h3 align="center">"A sluggard’s appetite is never filled, but the desires of the diligent are fully satisfied."</h3>
